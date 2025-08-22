@@ -27,3 +27,12 @@ Two players roll the dice, and the player with the higher number wins. 🎵 The 
 ## 📸 Screenshot  
 
 <img width="1203" height="860" alt="image" src="https://github.com/user-attachments/assets/928df675-a19a-4b5e-b195-8b0f58a9df5c" />
+
+---
+
+## 🎮 How to Play  
+
+1. Open the game in your browser.  
+2. Click **Refresh** to roll the dice.  
+3. The dice will generate random numbers for both players.  
+4. The player with the higher number wins!  
